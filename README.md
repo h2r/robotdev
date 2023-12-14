@@ -1,8 +1,8 @@
 <img src="./robotdev_design.png" width="500px"/>
 
-# Archived; For latest development, see: https://github.com/zkytony/robotdev
-
 # robotdev
+
+Home base for robots (originally mirrored based on [zkytony/robotdev](https://github.com/zkytony/robotdev); Now maintained separately for h2r developments)
 
 My repository for robot-related development.
 
